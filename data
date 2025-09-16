@@ -1,0 +1,46 @@
+{
+
+"can_show_ads":true , 
+"Use_Test_Mode" : false ,
+        
+"Test_Ids":
+[
+"052a0cc6-905e-4c4c-ac51-c8fa037b1ba7"
+],
+
+
+"Update_App" : false , 
+"Use_App_Open": false , 
+"Use_MRec_Banner": true , 
+"Use_Reward_Pop_Up": false ,
+
+"Main_Banner_Positon": "top" , 
+"MRec_Banner_Position":"bottom_left" ,
+
+
+"App_Open_Id": ["ca-app-pub-3940256099942544/3419835294" ] ,
+
+"Banner_Id": [ "d6ef981b464ad83b" ,  "d6ef981b464ad83b" , "d6ef981b464ad83b"] ,
+
+"MRec_Banner_Id": [ "b9e35ad9ae4ff941" , "b9e35ad9ae4ff941" ,  "b9e35ad9ae4ff941" ] ,
+
+"Interstital_Id": [  "e68b4a5a195520ba"  , "e68b4a5a195520ba" ,  "e68b4a5a195520ba"] ,
+
+"Rewarded_Id": [  "cf6b2d0334bb6ca5" , "cf6b2d0334bb6ca5" ,  "cf6b2d0334bb6ca5" ] ,
+
+"Ads_Request_Times":
+{
+"App_Open_Request_Time" : 7 ,
+"Rewarded_Request_Time" : 7 , 
+"Interstital_Request_Time" : 7 ,
+"MRec_Request_Time" : 7 , 
+"Banner_Request_Time" : 7 , 
+"Banner_ReRequest_Time" : 120
+},
+
+"Versions":
+[
+"2.5"
+]
+
+}
